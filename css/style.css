@@ -18,7 +18,7 @@
         justify-content: center;
         flex-direction: column;
         position: relative;
-        background-image: url("../Lua/Imagenes/imagen de contacto.jpg");
+        background-image: url("../Imagenes/imagen\ de\ contacto.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: 0px;
